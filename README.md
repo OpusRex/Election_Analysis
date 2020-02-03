@@ -24,3 +24,7 @@ The analysis of the election show that:
     
  -The winning candidate was:
     -Diana DeGette Diana DeGette with 272,892 vote for a total of 73.8% of all votes cast.
+    
+ -The county with the highest vote total was Denver with 306,055 votes, 82.8% of all votes.
+   -Jefferson County had the second highest total with 38,855, 10.5% of all votes.
+   -Arapahoe County had the lowest total with 24,801, 6.7% of all votes.
